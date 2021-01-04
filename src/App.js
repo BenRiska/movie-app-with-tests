@@ -1,3 +1,4 @@
+import Jumbotron from "./components/jumbotron";
 
 
 function App() {
