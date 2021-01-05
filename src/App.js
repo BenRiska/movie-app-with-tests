@@ -1,11 +1,12 @@
-import Jumbotron from "./components/jumbotron";
-
+import { BrowserRouter as Router, Switch } from 'react-router-dom';
+import * as ROUTES from './constants/routes';
+import { Home, Browse, SignIn, SignUp } from './pages';
 
 function App() {
   return (
-    <div className="App">
-      <h1>hi</h1>
-    </div>
+    <Router>
+
+    </Router>
   );
 }
 
