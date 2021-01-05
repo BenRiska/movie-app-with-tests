@@ -1,4 +1,5 @@
 export function seedDatabase(firebase) {
+  console.log("seed in process")
   function getUUID() {
     // eslint gets funny about bitwise
     /* eslint-disable */
