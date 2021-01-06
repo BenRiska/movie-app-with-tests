@@ -46,6 +46,7 @@
       "!<rootDir>/src/utils/index.js",
       "!<rootDir>/src/pages/index.js",
       "!<rootDir>/src/global-styles.js",
+      "!<rootDir>/src/reportWebVitals.js",
       "!<rootDir>/src/components/index.js",
       "!<rootDir>/src/firebase.prod.js",
       "!<rootDir>/src/hooks/*.js",
