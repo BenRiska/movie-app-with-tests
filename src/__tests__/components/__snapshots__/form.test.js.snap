@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Form /> renders the <Form /> with an error 1`] = `
+<div
+  class="form__Container-sc-10nmx5p-0 iVaBam"
+>
+  <div
+    class="form__Error-sc-10nmx5p-1 ckeHgo"
+  >
+    Your email address is already being used
+  </div>
+  <button
+    class="form__Submit-sc-10nmx5p-8 cECRAc"
+    type="submit"
+  >
+    Sign In
+  </button>
+</div>
+`;
+
+exports[`<Form /> renders the <Form /> with populated data 1`] = `
+<div
+  class="form__Container-sc-10nmx5p-0 iVaBam"
+>
+  <h1
+    class="form__Title-sc-10nmx5p-3 bTsawZ"
+  >
+    Sign In Now
+  </h1>
+  <form
+    class="form__Base-sc-10nmx5p-2 dgSfxe"
+  >
+    <input
+      class="form__Input-sc-10nmx5p-7 iELwkL"
+      placeholder="Email address"
+    />
+    <input
+      class="form__Input-sc-10nmx5p-7 iELwkL"
+      placeholder="Password"
+      type="password"
+    />
+    <button
+      class="form__Submit-sc-10nmx5p-8 cECRAc"
+      disabled=""
+      type="submit"
+    >
+      Sign In
+    </button>
+  </form>
+  <p
+    class="form__TextSmall-sc-10nmx5p-5 krebMI"
+  >
+    This page is protected by Google reCAPTCHA to ensure you're not a bot. Learn more.
+  </p>
+</div>
+`;
